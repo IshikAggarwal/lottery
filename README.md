@@ -31,4 +31,6 @@ deployed contract address:
 0xb0bfe28ae6695970Ea0859cfff5a6B8578C49cD9
 
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/374e64cb-a84c-4db4-8afe-299833297a9b" />
+<img width="1366" height="617" alt="image" src="https://github.com/user-attachments/assets/7eb9fe98-5f94-4d99-b149-016ea30edbc0" />
+
 
